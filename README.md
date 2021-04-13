@@ -1,6 +1,2 @@
-# 2-22-21 Modifications: 4-host Swarm
-This repo is a fork of the 4host-swarm codebase provided by KC Tam in his multihost Fabric v2.2 First Network guide (available below). This repo includes changes to various setup files which force the use of customized Fabric binaries compiled for the ARM architecture on Raspberry Pi 4 B+. 
-
-
-
-Source of article: https://medium.com/@kctheservant/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d
+# 4-13-21 Modifications: 16-host Swarm
+This repo contains the setup files necessary to deploy and operate a 16-device multi-host Fabric v2.1 Blockchain Network on the ARM64 architecture (Raspberry Pi B4). The network contains 7 orderers and 10 peers.

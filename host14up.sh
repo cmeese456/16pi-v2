@@ -1,0 +1,1 @@
+docker-compose -f host14.yaml up -d

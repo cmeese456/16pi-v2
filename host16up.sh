@@ -1,0 +1,1 @@
+docker-compose -f host16.yaml up -d

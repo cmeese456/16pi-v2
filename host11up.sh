@@ -1,0 +1,1 @@
+docker-compose -f host11.yaml up -d

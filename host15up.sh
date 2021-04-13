@@ -1,0 +1,1 @@
+docker-compose -f host15.yaml up -d

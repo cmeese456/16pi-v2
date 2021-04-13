@@ -1,0 +1,1 @@
+docker-compose -f host12.yaml up -d
