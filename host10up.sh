@@ -1,0 +1,1 @@
+docker-compose -f host10.yaml up -d
